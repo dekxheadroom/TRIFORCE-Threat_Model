@@ -130,7 +130,7 @@ This cyber threat model was inspired by DragonForce's song "Power of the Triforc
     * Identified knowledge gaps to level-up self-awareness;
 
 ### PHASE 4. ATTACK OPPORTUNITIES: When and Where to Attacker Will Hit 
->"Attack where(when) the Target Cannot Defend" (Weak Points and Strong - Sun Zi, Chapter VI)
+>"Those skilled in warfare made themselves invincible, and then waited for the enemy to become vulnerable" (Formation - Sun Zi, Chapter IV)
 
 > "昔之善战者，先为不可胜，以待敌之可胜。" - 孙子【军形篇】
 
@@ -195,7 +195,7 @@ This cyber threat model was inspired by DragonForce's song "Power of the Triforc
     * Specific IoAs and IoCs for each TCoA;
 
 ### PHASE 6. ATTACK AND DEFENCE SIMULATION: Where the Rubber Meets the Road
->"Many calculations mean victory" (Weak Points and Strong - Sun Zi, Chapter VI)
+>"Many calculations mean victory; few calculations mean no victory;" (Calculations - Sun Zi, Chapter I)
 
 >"多算胜，少算不胜，而况于无算乎？"  - 孙子【始计篇】
 1.  **Exercise Umpire**
@@ -218,7 +218,7 @@ This cyber threat model was inspired by DragonForce's song "Power of the Triforc
     * Identified Gaps;
 
 ### PHASE 7. CONTINUOUS LEARNING & IMPROVEMENT: Sustainable Security Posture
->"Do not depend on the enemy not coming..." (The Use of Spies - Sun Zi, Chapter XIII)
+>"Do not depend on the enemy not coming, but depend on our readiness against him. Do not depend on the enemy not attacking, but depend on our position that cannot be attacked."  (Nine Changes - Sun Zi, Chapter VIII)
 
 > "故用兵之法，无恃其不来，恃吾有以待之；无恃其不攻，恃吾有所不可攻也。"  - 孙子【九变篇】
 
