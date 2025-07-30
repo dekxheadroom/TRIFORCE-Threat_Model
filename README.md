@@ -34,13 +34,13 @@ This model drives defense by assuming the Attacker's Perspective to find paths t
 ## How to Use This Repository
 
 * **[TRIFORCE_MODEL.md](TRIFORCE_MODEL.md):** Dive deep into the complete TRIFORCE Threat Model, including its detailed methodology, philosophical underpinnings, and integration with other models like the Cyber Kill Chain and Diamond Model.
-* **[ADVERSARY_PLAYBOOK_TEMPLATE.md](ADVERSARY_PLAYBOOK_TEMPLATE.md):** Use this template to build your own specific threat actor profiles.
-* **[TCOA_SCENARIO_TEMPLATE.md](TCOA_SCENARIO_TEMPLATE.md):** A template for crafting detailed Threat Course of Action scenarios.
-* **[examples/](examples/):** See TRIFORCE in action with concrete (fictional) examples.
+* **[ADVERSARY_PLAYBOOK_TEMPLATE.md]:** Use this template to build your own specific threat actor profiles. (Under Development)
+* **[TCOA_SCENARIO_TEMPLATE.md]:** A template for crafting detailed Threat Course of Action scenarios.(Under Development)
+* **[examples/]:** See TRIFORCE in action with concrete (fictional) examples.(Under Development)
 
 ## Contributing
 
-We welcome contributions and feedback from the cybersecurity community! Please refer to the [Contributing Guidelines](.github/CONTRIBUTING.md) or open an issue to suggest improvements or ask questions.
+We welcome contributions and feedback from the cybersecurity community!
 
 ## License
 
