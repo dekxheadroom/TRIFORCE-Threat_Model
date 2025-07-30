@@ -218,7 +218,8 @@ Five-Phased if only conducting structured threat analysis; Seven-Phased if inclu
 >"多算胜，少算不胜，而况于无算乎？"  - 孙子【始计篇】
 1.  **<ins>Exercise Umpire</ins>:**
     * Designate an umpire
-    * Umpire to Inject Simulated Events that Cannot be Automated or Quantified such as judgement on success of social engineering;
+    * Umpire to inject simulated events that cannot be automated or quantified, such as judgement on success of social engineering;
+    * Umpire to inject and arbitrate scenario where assumed defence architecture fails in parts or in entirety;
     * Arbitrate Conflict that Cannot be Resolved through objective means;
 2.  **<ins>Red Team (Attacker) Actions</ins>:**
     * Emulate the highest priority TCoAs;
