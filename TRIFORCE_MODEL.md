@@ -3,7 +3,7 @@
 <img width="800" height="653" alt="TRIFORCE_git" src="https://github.com/user-attachments/assets/42371d7d-4989-47c7-b1b6-47d23eeadafa" />
  
 ## Introduction
-This cyber threat model was inspired by DragonForce's song "Power of the Triforce" (from the album Warp Speed Warriors) which in turn was inspired by the Nintendo game "Legend of Zelda". The threat assessment and modelling methodology is built upon my experience in combat intelligence and counter-terrorism intelligence. My role as an intelligence analyst was to provide operation planners with probable scenarios on how the adversary is likely to behave and react to our operations, so that we can make our operations more robust and resilient. 
+This cyber threat model was inspired by DragonForce's song "[Power of the Triforce](https://www.youtube.com/watch?v=K_Ln7VpB1c0)" (from the album Warp Speed Warriors) which in turn was inspired by the Nintendo game "Legend of Zelda". The threat assessment and modelling methodology is built upon my experience in combat intelligence and counter-terrorism intelligence. My role as an intelligence analyst was to provide operation planners with probable scenarios on how the adversary is likely to behave and react to our operations, so that we can make our operations more robust and resilient. 
 
 ## TRIFORCE: **T**hreat-**R**eady **I**nsights, **F**ocusing **O**n **R**elevant **C**apabilities & **E**ntities
 
