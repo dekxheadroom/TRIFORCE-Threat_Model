@@ -27,7 +27,7 @@ This model drives defense by assuming the Attacker's Perspective to find paths t
 
 ## Key Outcomes
 
-* Understand if your security posture is sufficient to deter or delay attacks from identified threat actors.
+* Understand if your security posture is sufficient to deter, delay or disrupt attacks from identified threat actors.
 * Reduce your attack surface area effectively.
 * Proactively observe, detect, and decisively respond to threat activities.
 
