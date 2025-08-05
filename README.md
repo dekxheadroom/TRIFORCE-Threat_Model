@@ -33,7 +33,7 @@ This model drives defense by assuming the Attacker's Perspective to find paths t
 
 ## How to Use This Repository
 
-* **[TRIFORCE_MODEL.md](TRIFORCE_MODEL.md):** Dive deep into the complete TRIFORCE Threat Model, including its detailed methodology, philosophical underpinnings, and integration with other models like the Cyber Kill Chain and Diamond Model.
+* **[TRIFORCE_MODEL.md](TRIFORCE_MODEL.md):** Dive deep into the complete TRIFORCE Threat Model, including its detailed methodology, philosophical underpinnings, and integration with other models like the Cyber Kill Chain and Diamond Model, and how it operationalise the IDENTIFY function of NIST Cybersecurity Framework (CSF) 2.0.
 * **[ADVERSARY_PLAYBOOK_TEMPLATE.md]:** Use this template to build your own specific threat actor profiles. (Under Development)
 * **[TCOA_SCENARIO_TEMPLATE.md]:** A template for crafting detailed Threat Course of Action scenarios.(Under Development)
 * **[examples/]:** See TRIFORCE in action with concrete (fictional) examples.(Under Development)
