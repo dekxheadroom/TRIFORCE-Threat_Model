@@ -32,7 +32,7 @@ This cyber threat model was inspired by DragonForce's song "[Power of the Trifor
 ## Desired Outcomes
 * Defence team able to know if security posture is sufficient to deter, delay or disrupt attacks from identified threat actors.
 * Defence team able to reduce attack surface area.
-* Defence team able to pro-actively observe detect and decisively respond to threat activities.
+* Defence team able to pro-actively observe, detect and decisively respond to threat activities.
 
 ## Limitations
 * The approach is best suited for threat actors that follow known playbooks, and may not be applicable to top-tier threat teams that innovate playbooks.
@@ -120,6 +120,8 @@ Five-Phased if only conducting structured threat analysis; Seven-Phased if inclu
     * Enumerate personnel of privileged users, owners of targeted assets, nodes in chain-of-trust
     * Identify Internal Persons-of-Interest with poor cyber hygiene practices;
 6.  **<ins>Sources of Knowledge</ins>:**
+    * CISO
+    * Own Organisation's [CSF Profile](https://www.nist.gov/cyberframework/profiles)
     * IT Engineering/Operations department;
     * System Administrators;
     * Critical Process Owners;
@@ -132,6 +134,7 @@ Five-Phased if only conducting structured threat analysis; Seven-Phased if inclu
     * **_Identified <ins>knowledge gaps</ins> to level-up self-awareness_**;
 
 ### ⚠️ REALITY CHECK ⚠️ ###
+* **_Your Organisation may not have an honest CSF Profile, having one which had been scoped for audit convenience;_**
 * **_A complete and comprehensive ledger of assets may never have existed in your organisation;_**
 * **_This is a heroic opportunity to be brutally honest and acknowledge lapses in accounting and accountability;_**
 * **_Seek leadership's consent for period of amnesty to exhume the skeletons in the closet: take stock of all assets - anything that runs a service and has a IP address,  and map the entire networked environment - including supposed air-gapped pockets;_**
@@ -173,7 +176,7 @@ Five-Phased if only conducting structured threat analysis; Seven-Phased if inclu
     * Help Desk Staff
     * Internal Security Audit
     * OSINT
-6.  **<ins>Output from ATTACK OPPORTUNITIES phase</ins>:**
+7.  **<ins>Output from ATTACK OPPORTUNITIES phase</ins>:**
     * Target List - List of Who, What to Attack
     * Target Pattern of Life - When is Organisation Likely to Relax or Drop Security Posture?
     * Map of Bypasses - Any?
