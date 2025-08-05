@@ -5,6 +5,8 @@
 ## Introduction
 This cyber threat model was inspired by DragonForce's song "[Power of the Triforce](https://www.youtube.com/watch?v=K_Ln7VpB1c0)" (from the album Warp Speed Warriors) which in turn was inspired by the Nintendo game "Legend of Zelda". The threat assessment and modelling methodology is built upon my experience in combat intelligence and counter-terrorism intelligence. My role as an intelligence analyst was to provide operation planners with probable scenarios on how the adversary is likely to behave and react to our operations, so that we can make our operations more robust and resilient. 
 
+This threat model is consistent with and applicable for effecting the **IDENTIFY** function of [NIST Cybersecurity Framework (CSF) 2.0](https://csrc.nist.gov/Projects/cybersecurity-framework/Filters#/csf/filters). 
+
 ## TRIFORCE: **T**hreat-**R**eady **I**nsights, **F**ocusing **O**n **R**elevant **C**apabilities & **E**ntities
 
 ## Purpose & Target Audience
@@ -48,7 +50,7 @@ This cyber threat model was inspired by DragonForce's song "[Power of the Trifor
 
 ## Methodology: Seven Phases of Threat-Informed Defence
 
-Five-Phased if only conducting structured threat analysis to satisfy the first two categories of **IDENTIFY** function of [NIST Cyber Security Framework (CSF) 2.0](https://www.nist.gov/cyberframework/informative-references) - Asset Management (ID.AM) and Risk Assessment (ID.RA); Seven-Phased if include simulation exercise and defence fine-tuning to fulfil last category Improvement (ID.IM) of IDENTIFY function.
+Five-Phased if only conducting structured threat analysis to satisfy the first two categories of **IDENTIFY** function of NIST CSF 2.0 - Asset Management (ID.AM) and Risk Assessment (ID.RA); Seven-Phased if include simulation exercise and defence fine-tuning to fulfil last category Improvement (ID.IM) of **IDENTIFY** function.
 
 ### PHASE 1. THREAT INTENT: Who's Going to Hit You and Why You're A Target
 >"Know Thyself, Know Thy Enemy" (Planning Attacks - Sun Zi, Chapter III)
