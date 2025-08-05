@@ -48,7 +48,7 @@ This cyber threat model was inspired by DragonForce's song "[Power of the Trifor
 
 ## Methodology: Seven Phases of Threat-Informed Defence
 
-Five-Phased if only conducting structured threat analysis; Seven-Phased if include simulation exercise and defence fine-tuning.
+Five-Phased if only conducting structured threat analysis to satisfy the first two categories of **IDENTIFY** function of [NIST Cyber Security Framework (CSF) 2.0](https://www.nist.gov/cyberframework/informative-references) - Asset Management (ID.AM) and Risk Assessment (ID.RA); Seven-Phased if include simulation exercise and defence fine-tuning to fulfil last category Improvement (ID.IM) of IDENTIFY function.
 
 ### PHASE 1. THREAT INTENT: Who's Going to Hit You and Why You're A Target
 >"Know Thyself, Know Thy Enemy" (Planning Attacks - Sun Zi, Chapter III)
