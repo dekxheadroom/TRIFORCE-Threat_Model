@@ -25,7 +25,7 @@ This threat model is consistent with and applicable for effecting the **IDENTIFY
     * <ins>LINDDUN</ins> is focused primarily on the privacy or confidentiality aspect of the CIA triad.
       
 ## Core Concept
-1.  Uses the axiom: `Threat = (Intent x Capability x Opportunity) / Security Posture`
+1.  Uses the axiom (the High-Rule!): `Threat = (Intent x Capability x Opportunity) / Security Posture`
 2.  Assume the Attacker's Perspective to find a path to and through Defender's infrastructure to Final Objective, leveraging on technical and non-technical assets of organisation; 
 3.  Develop Threat Courses of Action expressed in format of Cyber Kill Chain;
 4.  Develop Own Courses of Action to detect and defeat Attack;
